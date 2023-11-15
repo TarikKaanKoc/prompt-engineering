@@ -1,0 +1,4 @@
+# Environments
+.env
+.virtualenv
+venv/
